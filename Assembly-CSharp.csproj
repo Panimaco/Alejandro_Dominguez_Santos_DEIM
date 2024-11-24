@@ -61,27 +61,27 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ud02\Ejercicio_2\Zombie_Scripts\ZombieSpawner.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\FreeCameraLogic.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_2\Flowers_Scripts\FlowerSpawner.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\AccessoryLogic.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\FreeCameraLogic.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_2\Player_Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\AccessoryWearLogic.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_2\Flowers_Scripts\FlowerDamage.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_2\Zombie_Scripts\ZombieData.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_1\EggLauncher.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\SimpleSampleCharacterControl.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\AccessoryWearLogic.cs" />
     <Compile Include="Assets\Scripts\ud02\Ejercicio_1\ChickenController.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
-    <Compile Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\DemoFree.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\SimpleSampleCharacterControl.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\AccessoryLogic.cs" />
+    <Compile Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Scripts\DemoFree.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\Legacy\CelShader.shader" />
-    <None Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShader.shader" />
-    <None Include="Assets\Ejercicio\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShaderLighting.cginc" />
-    <None Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShader.shader" />
-    <None Include="Assets\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShaderLighting.cginc" />
+    <None Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\Legacy\CelShader.shader" />
+    <None Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShader.shader" />
+    <None Include="Assets\Models\Ejercicio\Supercyan Character Pack Animal People Sample\Shaders\SupercyanShaderLighting.cginc" />
+    <None Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShader.shader" />
+    <None Include="Assets\Models\Ejercicio\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShaderLighting.cginc" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
