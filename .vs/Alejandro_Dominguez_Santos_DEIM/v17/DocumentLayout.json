@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_2\\zombie_scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_2\\zombie_scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_2\\zombie_scripts\\zombiedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_2\\zombie_scripts\\zombiedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_2\\player_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_2\\player_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_2\\flowers_scripts\\flowerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_2\\flowers_scripts\\flowerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_2\\flowers_scripts\\flowerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_2\\flowers_scripts\\flowerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_1\\egglauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_1\\egglauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|c:\\users\\alejandro\\repos\\alejandro_dominguez_santos_deim\\assets\\scripts\\ud02\\ejercicio_1\\chickencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF622B94-9F8F-F205-2F7D-ADD550029F7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ud02\\ejercicio_1\\chickencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZombieSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieSpawner.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieSpawner.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:39:08.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZombieData.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieData.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_2\\Zombie_Scripts\\ZombieData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:38:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Player_Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_2\\Player_Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Player_Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_2\\Player_Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:37:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerSpawner.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerSpawner.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:34:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerDamage.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_2\\Flowers_Scripts\\FlowerDamage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:34:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EggLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_1\\EggLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_1\\EggLauncher.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_1\\EggLauncher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_1\\EggLauncher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:33:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChickenController.cs",
+              "DocumentMoniker": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_1\\ChickenController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ud02\\Ejercicio_1\\ChickenController.cs",
+              "ToolTip": "C:\\Users\\ALEJANDRO\\Repos\\Alejandro_Dominguez_Santos_DEIM\\Assets\\Scripts\\ud02\\Ejercicio_1\\ChickenController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ud02\\Ejercicio_1\\ChickenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:11:17.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
